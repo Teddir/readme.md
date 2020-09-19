@@ -1,9 +1,12 @@
-### Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 <div align="right">
-  **✨ Visitors**<br>
+**✨ Visitors**<br>
+
 [![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)](#)
 
 </div>
+### Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  
+
 <div>
 
   [![github stats](https://github-readme-stats.vercel.app/api?username=Teddir&show_icons=true)
