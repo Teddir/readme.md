@@ -1,11 +1,12 @@
 <div align="right">
-**✨ Visitors**<br>
+
 
 [![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)](#)
 
 </div>
+<div>
 ### Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  
+</div>
 
 <div>
 
