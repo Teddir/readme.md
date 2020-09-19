@@ -1,8 +1,5 @@
 ### Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-<div align="left">
-
- **✨ Visitors**<br>
-
+<div align="right">
 [![ViewCount](https://views.whatilearened.today/views/github/Teddir/ismlhbb.svg?cache=remove)](#)
 
 </div>
