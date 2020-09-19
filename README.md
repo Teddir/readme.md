@@ -5,19 +5,20 @@
 
 </div>
 <div>
-### Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 </div>
-
+<br>
 <div>
 
   [![github stats](https://github-readme-stats.vercel.app/api?username=Teddir&show_icons=true)
-
+<br>
   [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&layout=compact)](https://github.com/Teddir) 
 
 </div>  
 
 <div>
-
+<br>
+<br>
   **📫 Reach me at:**<br>
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=https://mail.google.com/mail/u/0/#inbox)
@@ -26,7 +27,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/Teddi)
 
 </div>
-
+<br>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
