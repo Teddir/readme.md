@@ -12,13 +12,11 @@ Hi there, welcome to my Github!<img src="https://github.com/ABSphreak/ABSphreak/
 
   [![github stats](https://github-readme-stats.vercel.app/api?username=Teddir&show_icons=true)
 <br>
-  [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&layout=compact)](https://github.com/Teddir) 
+  ![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddir&layout=compact)](https://github.com/Teddir) 
 
 </div>  
 
 <div>
-<br>
-<br>
   **📫 Reach me at:**<br>
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=https://mail.google.com/mail/u/0/#inbox)
